@@ -6,7 +6,7 @@ In this project we utilize an Unscented Kalman Filter to estimate the state of a
 [//]: # (Image References)
 
 [ds1]: ./UKF-DS1.JPG.jpg "ds1"
-[ds2]: UKF-DS2.JPG.JPG "ds2"
+[ds2]: ./UKF-DS2.JPG.JPG "ds2"
 
 ## Basic Build Instructions
 
